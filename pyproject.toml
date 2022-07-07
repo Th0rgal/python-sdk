@@ -9,7 +9,7 @@ apibara = "apibara.cli:cli"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-grpcio = "^1.47.0"
+grpcio = "^1.46.3"
 grpcio-tools = "^1.47.0"
 eth-hash = {extras = ["pysha3"], version = "^0.3.2"}
 aiochannel = "^1.1.1"
